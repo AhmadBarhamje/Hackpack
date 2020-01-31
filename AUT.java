@@ -6,6 +6,7 @@ public class AUT {
 
 	int n, k;
 	int[] costs, amt;
+	//change comment
 	
 	public AUT() {
 		Scanner s = new Scanner(System.in);
